@@ -1,0 +1,13 @@
+Title: showcase
+
+I don't think the showcase panels should have any content from case's edits at all
+I think they should be one consistent aethetic, and if possible, that aesthetic should be COOL, B&W, vhs-esque.
+I want people wearing sunglasses, paranoia, guys in coats on wall st. A GUN???
+I want one screen to go red after seeing something, or just blank.
+skyscrapers, helicopters, two friends kissing, two friends fighting, 
+
+technical questions:
+
+How should these sequences be randomized? Obviously we want certain behaviors to accompany certain pieces of content, like after showing a gun flashing red.
+How will these sequences plug into HTML? what format would be best? I'm thinking maybe gifs are best, but how do I keep track of duration? Can I track when a gif ends
+or do I need to keep track of the duration of each clip?
